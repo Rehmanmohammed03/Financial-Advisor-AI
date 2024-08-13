@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+html{
+  background-image: url('robot.jpg');
+  background-size: cover;
+  background-color: #0a0a0a;
+  background-blend-mode: multiply;
+}
